@@ -239,7 +239,6 @@ namespace MyNotepad
             {
                 if (i.Text[0] == '*' && i.Controls[0].Text.Length > 0)
                 {
-                    
                     if (MessageBox.Show("Do you want to save changes to your text?", this.Text,
                 MessageBoxButtons.YesNo) == DialogResult.Yes)
                     {
