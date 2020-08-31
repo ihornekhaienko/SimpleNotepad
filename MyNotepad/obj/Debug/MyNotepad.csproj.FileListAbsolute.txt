@@ -1,0 +1,10 @@
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojAssemblyReference.cache
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\projects\sharp\wf\notebook\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
